@@ -66,24 +66,6 @@ Interactive Power BI dashboard analyzing NYC real estate transactions across bor
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 🦠 COVID-19 Data Analysis Using Python
-EDA on COVID-19 datasets with correlation analysis, outlier detection, and geospatial trend visualization to surface temporal and regional patterns.
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-</td>
-<td width="50%">
-
-### 📰 AI News Summarizer
-Built while training in NLP fundamentals — tokenization, embeddings, sentiment analysis — applied to a working generative summarization tool.
-
-`Python` `NLP` `Generative AI`
-
-</td>
-</tr>
 </table>
 
 ## 📊 GitHub Stats
