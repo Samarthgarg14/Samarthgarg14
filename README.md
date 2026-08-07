@@ -51,7 +51,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🎣 [Phishing Detection AI System](https://github.com/Samarthgarg14)
+### 🎣 [Phishing Detection AI System](https://github.com/Samarthgarg14/Phishing_Detection_AI)
 End-to-end ML pipeline on 11K+ records with 30+ engineered URL/HTML features. ~96% accuracy across 6 classification models, with real-time risk scoring via FastAPI and experiment tracking via MLflow.
 
 `Python` `Scikit-learn` `FastAPI` `MLflow`
@@ -59,7 +59,7 @@ End-to-end ML pipeline on 11K+ records with 30+ engineered URL/HTML features. ~9
 </td>
 <td width="50%">
 
-### 🏙️ NYC Real Estate Market Intelligence Dashboard
+### 🏙️ [NYC Real Estate Market Intelligence Dashboard](https://github.com/Samarthgarg14/NYC-Real-estate-market-analytics-dashboard)
 Interactive Power BI dashboard analyzing NYC real estate transactions across boroughs and ZIP codes — KPI tracking, geo-maps, and price segmentation.
 
 `Power BI` `Power Query` `DAX`
